@@ -1,0 +1,4 @@
+SRC_TBL=sourcedata.dc_activity_32_v2
+TGT_TBL=hbase://dc_event_id_xref_32
+HBASE_STORAGE=org.apache.pig.backend.hadoop.hbase.HBaseStorage
+HCATLOADER_LIB=org.apache.hive.hcatalog.pig.HCatLoader()
