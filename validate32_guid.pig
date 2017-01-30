@@ -1,4 +1,4 @@
-SET job.name 'Update DoubleClick NA Event ID Lookup Table';
+SET job.name 'Update Lookup Table';
 
 act_load         =   LOAD '$SRC_TBL' USING $HCATLOADER_LIB;
 
