@@ -1,4 +1,4 @@
-# How to load hive data to pig using Hcatlog with param and Dry run process
+# How to load hive data to pig using Hcatalog with param and Dry run option
 
 Dry Run 
 -----------------------------------------------------------------------------------
